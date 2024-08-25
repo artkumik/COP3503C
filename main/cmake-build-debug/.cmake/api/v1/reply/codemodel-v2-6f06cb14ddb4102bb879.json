@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/artku/Documents/Github/main/cmake-build-debug",
-		"source" : "C:/Users/artku/Documents/Github/main"
+		"build" : "C:/Users/artku/Documents/Github/COP3503C/main/cmake-build-debug",
+		"source" : "C:/Users/artku/Documents/Github/COP3503C/main"
 	},
 	"version" : 
 	{
