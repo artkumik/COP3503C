@@ -1,0 +1,3 @@
+C:/Users/artku/Documents/Github/COP3503C/Lessons/Lesson 5/cmake-build-debug/CMakeFiles/Lesson5.dir
+C:/Users/artku/Documents/Github/COP3503C/Lessons/Lesson 5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/artku/Documents/Github/COP3503C/Lessons/Lesson 5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
