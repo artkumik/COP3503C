@@ -1,0 +1,5 @@
+Contact* ContactBook::Find(string input){
+  for(int i = 0; i < size(contacts);i+=1){
+    cout << (i) << endl;
+  }
+}
